@@ -26,7 +26,21 @@
   
   Install the dependencies, run the seeds, and type npm start in the terminal. 
      
+
+      The following links lead you to the github repository used when making this website:
+
+
+https://github.com/Owennewlove/MVC_TechBlog_ON
+
+https://git.heroku.com/techblog-on.git
+
+
   
+        ```md
+![alt text](./images/Screen%20Shot%202022-10-21%20at%201.04.23%20PM.png)
+
+    ```
+
   ## Credits
 
   N/A
